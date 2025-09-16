@@ -1,28 +1,32 @@
 ---
-title: "Welcome to My Product Management Portfolio"
+title: "Welcome to Jarom Pratt's Product Management Portfolio"
 ---
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Jarom Pratt Profile Photo" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Jarom Pratt</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/jarom-pratt/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/jarbar02" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
 :::
 
+## About Me
+
+Entrepreneurial management student at Brigham Young University with a passion for product development and real estate investment. Co-founder of EagleCap Legacy Wealth Partners, a multifamily investment firm focused on building generational wealth through strategic real estate acquisitions.
+
 ## Featured Projects
 
 ::: {.g-col-12 .g-col-md-6 .card}
 
-### [Name of my first app](projects/project-1.qmd)
-A one sentence description of my first application which is deployed to vercel. 
+### [stu - Automated Academic Planning](projects/project-1.qmd)
+An intelligent platform for automated scheduling, advising, and graduation mapping that streamlines the academic planning process for students.
 
 :::
 

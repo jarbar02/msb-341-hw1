@@ -4,14 +4,14 @@ title: "About Me"
 
 ::: {.hero-banner .text-center}
 
-<img src="images/profile.jpg" alt="add photo to /images" class="rounded-circle mb-3" width="160">
+<img src="images/profile.jpg" alt="Jarom Pratt Profile Photo" class="rounded-circle mb-3" width="160">
 
-<h1>Your Name</h1>
+<h1>Jarom Pratt</h1>
 
-<a href="https://linkedin.com/in/your-profile" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://www.linkedin.com/in/jarom-pratt/" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-linkedin"></i> LinkedIn
 </a>
-<a href="https://github.com/your-username" class="btn btn-outline-primary btn-sm" target="_blank">
+<a href="https://github.com/jarbar02" class="btn btn-outline-primary btn-sm" target="_blank">
   <i class="fab fa-github"></i> GitHub
 </a>
 
@@ -19,45 +19,52 @@ title: "About Me"
 
 ## Background
 
-Write a compelling narrative about your background, education, and what drives your passion for product management. This is your chance to tell your story and connect with potential employers or collaborators.
+I'm an entrepreneurial management student at Brigham Young University with a passion for building innovative products and creating sustainable wealth through strategic investments. My journey combines academic excellence with hands-on business experience, as I actively co-manage a multifamily investment firm while pursuing my degree.
+
+What drives my passion for product management is the intersection of technology, user experience, and business strategy. I believe great products solve real problems while creating meaningful value for users and stakeholders alike.
 
 ### Education
 
-- **Degree Name**, University Name (Year)
-- **Relevant Coursework**: List key courses related to product management, analytics, or business
-- **Academic Achievements**: Honor societies, relevant projects, or awards
+- **BS Entrepreneurial Management**, Brigham Young University, Provo (2026)
+- **Relevant Coursework**: Product Management, Business Analytics, Strategic Management, Finance, Marketing
+- **Academic Focus**: Technology entrepreneurship and real estate investment strategies
 
 ### Experience
 
-#### Job/Internship Title - Company Name
-*Dates*
+#### Co-Founder & Investment Partner - EagleCap Legacy Wealth Partners
+*2023 - Present*
 
-- Key accomplishment or responsibility
-- Another achievement with quantifiable results
-- Skills or technologies used
+- Co-manage multifamily investment portfolio with focus on generational wealth building
+- Analyze market opportunities and evaluate potential real estate acquisitions
+- Develop investment strategies and manage stakeholder relationships
+- Created comprehensive investment platform accessible at eaglecapinvesting.com
 
-#### Another Position - Company Name
-*Dates*
+#### Product Developer - Academic Planning Solutions
+*2024*
 
-- What you contributed to the organization
-- Projects you worked on
-- Impact you made
+- Developed "stu" platform for automated scheduling, advising, and graduation mapping
+- Implemented user-centric design principles to streamline academic planning processes
+- Deployed scalable web application serving student planning needs
 
 ### Skills & Interests
 
 **Technical Skills**
-- Programming languages (Python, R, SQL)
-- Analytics tools (Tableau, Power BI, Google Analytics)
-- Product management tools (Jira, Confluence, Figma)
+- Product development and user experience design
+- Web development and deployment (GitHub, Vercel)
+- Financial analysis and investment modeling
+- Market research and competitive analysis
 
 **Soft Skills**
-- Communication and presentation
-- Cross-functional collaboration
 - Strategic thinking and problem-solving
+- Partnership development and relationship management
+- Communication and presentation
+- Cross-functional team leadership
 
 **Interests**
-Share what you're passionate about outside of work - this helps humanize your professional brand and can be great conversation starters.
+Real estate investment, technology innovation, entrepreneurship, and building products that make a meaningful impact on people's lives. I'm passionate about the intersection of technology and traditional investment strategies.
 
 ### What's Next
 
-Describe your career goals and what type of opportunities you're seeking. This helps visitors understand how they might work with you or whether you'd be a good fit for their organization.
+I'm seeking opportunities in product management where I can leverage my entrepreneurial experience and technical skills to build innovative solutions. I'm particularly interested in fintech, proptech, or educational technology roles where I can apply my background in investment analysis and product development.
+
+My goal is to join a forward-thinking organization where I can contribute to product strategy while continuing to grow my expertise in user-centered design and data-driven decision making.
