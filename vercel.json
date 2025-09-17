@@ -1,4 +1,4 @@
 {
-  "buildCommand": "curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.554/quarto-1.4.554-linux-amd64.tar.gz && tar -xzf quarto-1.4.554-linux-amd64.tar.gz && ./quarto-1.4.554/bin/quarto render",
+  "buildCommand": "curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.8.24/quarto-1.8.24-linux-amd64.tar.gz && tar -xzf quarto-1.8.24-linux-amd64.tar.gz && ./quarto-1.8.24/bin/quarto render",
   "outputDirectory": "_site"
 }
